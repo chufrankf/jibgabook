@@ -42,3 +42,8 @@ export class App extends React.Component {
   }
 }
 ```
+
+
+# Credits
+
+Based off of https://github.com/cazala/react-storybook-typescript-template
